@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = IvaGem::VERSION
   spec.authors       = ["Edwin Mejia"]
   spec.email         = ["eddwin@live.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = 'Looks for final date of El Salvadors IVA tax submission'
+  spec.description   = 'Retrieves the final date for submitting tax sheet'
   spec.homepage      = ""
   spec.license       = "MIT"
 

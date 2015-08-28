@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/eddwin/iva_gem.svg?branch=master)](https://travis-ci.org/eddwin/iva_gem)
-
+[![Gem Version](https://badge.fury.io/rb/iva_gem.svg)](http://badge.fury.io/rb/iva_gem)
 # IvaGem
 
 TODO: Write a gem description
